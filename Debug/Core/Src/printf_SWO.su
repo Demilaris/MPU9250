@@ -1,0 +1,2 @@
+core_cm7.h:2606:26:ITM_SendChar	16	static,ignoring_inline_asm
+printf_SWO.c:12:5:_write	32	static

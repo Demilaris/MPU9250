@@ -1,0 +1,5 @@
+tm_stm32_ahrs_imu.c:30:7:oneOverSqrt	16	static
+tm_stm32_ahrs_imu.c:35:6:calculateAngles	16	static
+tm_stm32_ahrs_imu.c:53:6:TM_AHRSIMU_Init	24	static
+tm_stm32_ahrs_imu.c:64:6:TM_AHRSIMU_UpdateAHRS	192	static
+tm_stm32_ahrs_imu.c:165:6:TM_AHRSIMU_UpdateIMU	128	static
